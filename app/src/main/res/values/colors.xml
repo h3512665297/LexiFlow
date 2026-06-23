@@ -1,0 +1,12 @@
+<resources>
+    <color name="ink">#17221D</color>
+    <color name="forest">#315C46</color>
+    <color name="forest_dark">#244535</color>
+    <color name="mint">#DDEDE4</color>
+    <color name="cream">#F7F5EE</color>
+    <color name="paper">#FFFEFA</color>
+    <color name="sand">#E8E2D5</color>
+    <color name="muted">#708078</color>
+    <color name="coral">#D6785B</color>
+    <color name="white">#FFFFFF</color>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!-- Room 数据库在备份时可能处于事务中，自动备份会损坏数据 -->
+    <exclude domain="database" path="lexiflow.db" />
+    <exclude domain="database" path="lexiflow.db-wal" />
+    <exclude domain="database" path="lexiflow.db-shm" />
+    <!-- SharedPreferences 由应用自行管理，允许备份 -->
+    <include domain="sharedpref" path="." />
+</full-backup-content>

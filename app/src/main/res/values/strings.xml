@@ -1,0 +1,141 @@
+<resources>
+    <string name="app_name">词屿</string>
+    <string name="nav_today">今日</string>
+    <string name="nav_learn">学习</string>
+    <string name="nav_growth">成长</string>
+    <string name="nav_library">词库</string>
+
+    <!-- 首页 -->
+    <string name="home_app_title">词屿</string>
+    <string name="home_loading">正在整理今日词单…</string>
+    <string name="home_error_title">加载失败</string>
+    <string name="home_retry">重试</string>
+    <string name="home_greeting">%1$s，\n今天也和单词见个面</string>
+    <string name="home_subtitle">不是记住所有，而是每天多认识一点。</string>
+    <string name="home_today_plan">今日计划</string>
+    <string name="home_today_new">新学 %1$d</string>
+    <string name="home_today_review">复习 %1$d</string>
+    <string name="home_streak">%1$d 天\n连续学习</string>
+    <string name="home_start_learning">开始今日学习</string>
+    <string name="home_continue_learning">继续学习</string>
+    <string name="home_word_of_day">今日一词</string>
+    <string name="home_speak">听发音</string>
+    <string name="home_library_title">你的词库</string>
+    <string name="home_learned">已学习</string>
+    <string name="home_mastered">已掌握</string>
+    <string name="home_total">词库总数</string>
+
+    <!-- 学习页 -->
+    <string name="study_title">多维训练</string>
+    <string name="study_subtitle">换一种方式，再认出它</string>
+    <string name="study_loading">正在安排训练…</string>
+    <string name="study_saving">正在保存…</string>
+    <string name="study_completed">今日任务完成</string>
+    <string name="study_completed_desc">今天的记忆已经安放妥当。</string>
+    <string name="study_free_review">自由复习</string>
+    <string name="study_extra_learning">加量学习</string>
+    <string name="study_next_review">下一次复习：%1$s</string>
+    <string name="study_mode_flashcard">看词辨义</string>
+    <string name="study_tap_example">轻触卡片 · 查看例句</string>
+    <string name="study_tap_meaning">再次轻触 · 揭晓释义</string>
+    <string name="study_mode_listening">听音辨词</string>
+    <string name="study_mode_spelling">释义拼写</string>
+    <string name="study_mode_cloze">例句填空</string>
+    <string name="study_tab_flashcard">辨义</string>
+    <string name="study_tab_listening">听音</string>
+    <string name="study_tab_spelling">拼写</string>
+    <string name="study_tab_cloze">填空</string>
+    <string name="study_show_meaning">显示释义</string>
+    <string name="study_check_answer">检查答案</string>
+    <string name="study_listen_again">🔊  再听一次</string>
+    <string name="study_listen_hint">先听发音，试着拼出这个词</string>
+    <string name="study_listen_input_hint">输入听到的单词</string>
+    <string name="study_spell_input_hint">根据释义拼写英文</string>
+    <string name="study_cloze_hint">根据释义填入单词</string>
+    <string name="study_cloze_input_hint">填入缺失单词</string>
+    <string name="study_correct">答对了</string>
+    <string name="study_wrong">再记一次</string>
+    <string name="study_rating_again">忘记</string>
+    <string name="study_rating_hard">模糊</string>
+    <string name="study_rating_good">认识</string>
+    <string name="study_rating_easy">熟练</string>
+
+    <!-- 统计页 -->
+    <string name="stats_title">成长记录</string>
+    <string name="stats_subtitle">每一次重逢，\n都让记忆更牢一点</string>
+    <string name="stats_streak_label">连续学习</string>
+    <string name="stats_streak_days">%1$d DAYS</string>
+    <string name="stats_streak_empty">完成一次学习，点亮你的第一天。</string>
+    <string name="stats_streak_active">保持节奏，比偶尔冲刺更重要。</string>
+    <string name="stats_new_today">今日新学</string>
+    <string name="stats_review_today">今日复习</string>
+    <string name="stats_accuracy">今日正确率</string>
+    <string name="stats_accuracy_desc">"认识"和"熟练"计为成功回忆。</string>
+    <string name="stats_memory_label">长期记忆</string>
+    <string name="stats_memory_desc">%1$d 个单词的复习间隔已达到 21 天。</string>
+    <string name="stats_weekly_title">本周学习日历</string>
+    <string name="stats_duration">今日投入 %1$d 分钟 · 本周完成 %2$d 次练习</string>
+
+    <!-- 词库页 -->
+    <string name="library_title">词库与工具</string>
+    <string name="library_subtitle">找到词，也找到自己的节奏</string>
+    <string name="library_current_book">当前词书</string>
+    <string name="library_learning">学习中</string>
+    <string name="library_select">选择</string>
+    <string name="library_search_hint">搜索英文或中文释义</string>
+    <string name="library_tab_all">全部</string>
+    <string name="library_tab_favorites">收藏</string>
+    <string name="library_tab_mistakes">错词</string>
+    <string name="library_empty">这里暂时没有单词。</string>
+    <string name="library_load_more">加载更多…</string>
+    <string name="library_settings">学习设置</string>
+    <string name="library_tools">数据工具</string>
+    <string name="library_import_json">导入 JSON</string>
+    <string name="library_export_data">导出数据</string>
+    <string name="library_clear_progress">清除学习记录</string>
+    <string name="library_clear_confirm">清除学习记录？</string>
+    <string name="library_clear_message">词库会保留，但复习进度与统计将归零。</string>
+    <string name="library_clear_cancel">取消</string>
+    <string name="library_clear_ok">清除</string>
+    <string name="library_imported">已导入 %1$d 个单词</string>
+    <string name="library_import_failed">导入失败：%1$s</string>
+    <string name="library_export_done">学习数据已导出</string>
+    <string name="library_cannot_read">无法读取文件</string>
+    <string name="library_no_perm">未授权通知，提醒不会显示</string>
+    <string name="library_dict_lookup">在线查词</string>
+    <string name="library_dict_hint">输入英文单词</string>
+    <string name="library_dict_search">查询</string>
+    <string name="library_dict_loading">查询中…</string>
+    <string name="library_dict_not_found">未找到该单词</string>
+    <string name="library_dict_add">添加到词库</string>
+    <string name="library_dict_added">已添加到词库</string>
+    <string name="library_dict_synonyms">近义词</string>
+    <string name="library_dict_antonyms">反义词</string>
+    <string name="library_setting_daily_goal">每组学习单词量</string>
+    <string name="library_setting_new_limit">每组复习单词量</string>
+    <string name="library_setting_reminder">提醒时间</string>
+    <string name="library_setting_retention">目标记忆率</string>
+    <string name="library_setting_auto_play">自动播放发音</string>
+    <string name="library_setting_daily_reminder">每日学习提醒</string>
+    <string name="library_setting_dark_mode">深色模式</string>
+    <string name="library_setting_api_key">DeepSeek API Key</string>
+    <string name="library_setting_value_words">%1$d 词</string>
+    <string name="library_setting_value_hour">%1$d:00</string>
+    <string name="library_setting_value_pct">%1$d%%</string>
+    <string name="library_favorite_on">★</string>
+    <string name="library_favorite_off">☆</string>
+    <string name="library_lapses">遗忘 %1$d 次</string>
+    <string name="library_detail_speak">发音</string>
+    <string name="library_detail_close">关闭</string>
+
+    <!-- TTS / 通用 -->
+    <string name="tts_unavailable">发音引擎暂不可用</string>
+    <string name="tts_not_found">未找到可用的系统发音引擎</string>
+
+    <!-- 提醒 -->
+    <string name="reminder_title">今天的单词在等你</string>
+    <string name="reminder_body">花几分钟复习，让记忆再牢一点。</string>
+
+    <!-- 错误 -->
+    <string name="error_load_failed">加载失败</string>
+</resources>
