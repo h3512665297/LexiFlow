@@ -43,7 +43,8 @@
 
 ## 截图
 
-<img width="1127" height="447" alt="3" src="https://github.com/user-attachments/assets/29947f9a-515d-487e-a686-c5ff3f6428f0" />
+<img width="366" height="311" alt="查词" src="https://github.com/user-attachments/assets/5f389092-beef-4be4-aea8-df950e32f81f" />
+
 
 
 ## 技术栈
