@@ -43,7 +43,6 @@
 
 ## 截图
 
-<img width="1127" height="447" alt="3" src="https://github.com/user-attachments/assets/1fe08615-d07d-4e4d-9fe2-d6032b26da0f" />
 <img width="360" height="803" alt="首页" src="https://github.com/user-attachments/assets/e86a831f-1b30-4c74-aaa0-ef197cfda8b6" />
 <img width="357" height="803" alt="词书" src="https://github.com/user-attachments/assets/0ff7e155-0271-40ef-835b-23cddfa7e2ab" />
 
